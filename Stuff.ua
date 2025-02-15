@@ -3,6 +3,7 @@
 # MultiplesOf ? n r
 # Find all muliples of n up to r
 # Example: MultiplesOf 16 50 ## [16 32 48]
+MultiplesOf ← ↘1⊚=0◿ ⊙⇡
 
 # PrimesUntil ? n
 # Find all prime numbers up to n
